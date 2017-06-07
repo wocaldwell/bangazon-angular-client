@@ -1,0 +1,7 @@
+
+.DS_Store
+lib/node_modules/
+__pycache__
+bin
+obj
+*.db
